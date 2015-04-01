@@ -1,15 +1,20 @@
-".container": {
+".container" : {
 	backgroundColor:"white"
+},
+"#imageView" : {
+	top:40,
+	width:250,
+	height:250,
+	backgroundColor:'red'
+},
+"#textField" : {
+	top:10,
+	width:"80%",
+	height:50,
+	borderStyle:Ti.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"#shareButton" : {
+	top:10
 }
 
-"Label": {
-	width: Ti.UI.SIZE,
-	height: Ti.UI.SIZE,
-	color: "#000"
-}
 
-"#label": {
-	font: {
-		fontSize: 12
-	}
-}
