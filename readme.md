@@ -33,7 +33,7 @@ This is how to use it in your code:
 ##Screenshots
 
 ###iOS:
-![iOS](/screenshot_iOS.png?raw=true =600x)
+![iOS](screenshot_iOS.png?raw=true)
 
 ###Android:
-![Android](/screenshot_android.png?raw=true =600x) 
+![Android](screenshot_android.png?raw=true) 
