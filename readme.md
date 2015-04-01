@@ -30,3 +30,10 @@ This is how to use it in your code:
     });
     
 
+##Screenshots
+
+###iOS:
+![](screenshot_iOS.png =600x)
+
+###Android:
+![](screenshot_android.png =600x) 
