@@ -33,7 +33,7 @@ This is how to use it in your code:
 ##Screenshots
 
 ###iOS:
-![iOS](https://bytebucket.org/jyounus14/native_unified_sharing/raw/b6c9f73458625cdba2fa619b4321368360ab673f/screenshot_iOS.png)
+![iOS](https://bitbucket.org/jyounus14/native_unified_sharing/raw/master/screenshot_iOS.png)
 
 ###Android:
-![Android](https://bytebucket.org/jyounus14/native_unified_sharing/raw/b6c9f73458625cdba2fa619b4321368360ab673f/screenshot_android.png) 
+![Android](https://bitbucket.org/jyounus14/native_unified_sharing/raw/master/screenshot_android.png) 
