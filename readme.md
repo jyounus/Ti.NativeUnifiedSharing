@@ -1,4 +1,6 @@
-#Native Unified (Social) Sharing Module
+#Ti.NativeUnifiedSharing
+
+##Native Unified (Social) Sharing CommonJS Module
 
 This project provides a quick solution for implementing native sharing features on iOS and Android. It relies on the platform's way of sharing text/images. 
 
@@ -33,7 +35,7 @@ This is how to use it in your code:
 ##Screenshots
 
 ###iOS:
-![iOS](https://bitbucket.org/jyounus14/native_unified_sharing/raw/master/screenshot_iOS.png)
+![iOS](screenshot_iOS.png)
 
 ###Android:
-![Android](https://bitbucket.org/jyounus14/native_unified_sharing/raw/master/screenshot_android.png) 
+![Android](screenshot_android.png) 
