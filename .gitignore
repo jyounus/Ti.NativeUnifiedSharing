@@ -1,7 +1,8 @@
+# Build folder and log file
+build/
 .DS_Store
 Resources
 build.log
-build
 npm-debug.log
 tmp
 .map
