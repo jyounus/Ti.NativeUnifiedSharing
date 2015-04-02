@@ -3,10 +3,10 @@
     <id>co.uk.devpulse.nativeunifiedsharing</id>
     <name>Native_Unified_Sharing</name>
     <version>1.0</version>
-    <publisher>jayy</publisher>
+    <publisher>Junaid Younus</publisher>
     <url>http://www.devpulse.co.uk</url>
     <description>Native sharing made easy!</description>
-    <copyright>2015 by jayy</copyright>
+    <copyright>2015 by Junaid Younus</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
