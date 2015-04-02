@@ -1,7 +1,11 @@
 <Alloy>
 	<Window id="win" class="container">
 		<ScrollView layout="vertical">
-			<ImageView id="imageView" onClick="selectImagePressed"/>
+			<View id="imageContainer">
+				<ImageView id="imageView" onClick="selectImagePressed"/>
+				<Label id="label" text="Tap to select image"/>
+			</View>
+			
 			<TextField id="textField"/>
 			<Button id="shareButton" title="Share via.." onClick="sharePressed"/>
 		</ScrollView>

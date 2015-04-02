@@ -1,16 +1,28 @@
 ".container" : {
 	backgroundColor:"white"
 },
-"#imageView" : {
+"#imageContainer" : {
 	top:40,
+	width:Ti.UI.SIZE,
+	height:Ti.UI.SIZE
+},
+"#imageView" : {
+	top:0,
 	width:250,
 	height:250,
 	backgroundColor:'red'
+},
+"#label" : {
+	bottom:0,
+	color:"white",
+	font:{fontSize:20, fontWeight:"bold"},
+	touchEnabled:false
 },
 "#textField" : {
 	top:10,
 	width:"80%",
 	height:50,
+	color:"black",
 	borderStyle:Ti.UI.INPUT_BORDERSTYLE_ROUNDED
 },
 "#shareButton" : {
